@@ -1,0 +1,9 @@
+Python Basics Videos
+
+This material is based upon work supported by the NSF under Grant No. DBI-1548297.  
+Disclaimer:  Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation. 
+
+1. Python for Beginners - Learn Python in 1 Hour https://www.youtube.com/watch?v=kqtD5dpn9C8
+2. Learn NUMPY in 5 minutes https://youtu.be/xECXZ3tyONo
+3. How to Use Lists in Python https://www.youtube.com/watch?v=9OeznAkyQz4
+4. Python Lists https://youtu.be/ohCDWZgNIU0
